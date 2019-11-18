@@ -1,0 +1,24 @@
+[submodule "jumbo-jekyll-theme"]
+	path = jumbo-jekyll-theme
+	url = https://github.com/linaro-marketing/jumbo-jekyll-theme.git
+	branch = 5.6.0
+[submodule "linaro-website-source"]
+	path = linaro-website-source
+	url = https://github.com/Linaro/website.git
+	branch = develop
+[submodule "jekyll-build-container"]
+	path = jekyll-build-container
+	url = https://github.com/linaro-its/jekyll-build-container.git
+	branch = develop
+[submodule "jekyll-build-container-wiki"]
+	path = jekyll-build-container-wiki
+	url = https://github.com/linaro-its/jekyll-build-container.wiki.git
+	branch = master
+[submodule "jekyll-link-checker"]
+	path = jekyll-link-checker
+	url = https://github.com/linaro-its/jekyll-link-checker.git
+	branch = master
+[submodule "jekyll-link-checker-wiki"]
+	path = jekyll-link-checker-wiki
+	url = https://github.com/linaro-its/jekyll-link-checker.wiki.git
+	branch = master
