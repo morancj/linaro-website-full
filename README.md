@@ -102,4 +102,21 @@ Fetching submodule jekyll-link-checker-wiki
 Fetching submodule jumbo-jekyll-theme
 Fetching submodule linaro-website-source
 Already up to date.
-user@host:~/temp/linaro-website-full$ ```
+user@host:~/temp/linaro-website-full$
+```
+
+### Updating submodules
+
+```bash
+user@host:~/temp/linaro-website-full$ git pull --recurse-submodules
+Fetching submodule jekyll-build-container
+Fetching submodule jekyll-build-container-wiki
+Fetching submodule jekyll-link-checker
+Fetching submodule jekyll-link-checker-wiki
+Fetching submodule jumbo-jekyll-theme
+Fetching submodule linaro-website-source
+From https://github.com/Linaro/website
+   032aaf6b..45467a52  develop    -> origin/develop
+Already up to date.
+user@host:~/temp/linaro-website-full$
+```
