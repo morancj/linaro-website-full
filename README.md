@@ -1,3 +1,10 @@
-# Linaro-ITS Template
+# Linaro-Website-full
 
-Settings for Git and editors popular with [Linaro-ITS](https://github.com/linaro-its/).
+This is a _test_ repo, not intended for general use!
+
+Submodules include:
+
+* Source code for [Linaro website](https://www.linaro.org/)
+* Source code for Dockerised Jekyll build
+* Wiki documentation
+* Jekyll theme
